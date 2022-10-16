@@ -5,7 +5,7 @@ The paper and code will be public until the paper is accepted. <br>
 # Dataset and Evaluate tools
 RGB-T SOD Datasets can be found in:  https://github.com/lz118/RGBT-Salient-Object-Detection <br>
 
-Evaluate tools: matlab verison[matlab](https://github.com/DengPingFan/CODToolbox) or python version[python](https://github.com/lartpang/PySODMetrics) .
+Evaluate tools: matlab verison[matlab](https://github.com/DengPingFan/CODToolbox) or python version. [python](https://github.com/lartpang/PySODMetrics) 
 
 
 # Result
