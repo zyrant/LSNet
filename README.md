@@ -10,9 +10,10 @@ if If anything goes wrong with the environment, please check requirements.txt fo
 <img src="https://user-images.githubusercontent.com/38373305/218299628-8b7bbdc5-39b2-4d68-9cdb-828e617c0bab.png" alt="drawing" width="400" height="400"/> <img src="https://user-images.githubusercontent.com/38373305/218299686-8a7e7cae-8970-4e56-a4b1-4986b872741f.png" alt="drawing" width="400" height="400"/>
 
 # Results
-![image](https://user-images.githubusercontent.com/38373305/218301004-4556a1c6-b76b-44b6-aeab-1f48b15cc17d.png)
-![image](https://user-images.githubusercontent.com/38373305/218301024-cbf9bfbc-b3e2-4e44-89a2-106fafeda465.png)
-![image](https://user-images.githubusercontent.com/38373305/218301046-2fab51b0-4566-43d0-a861-9d6ee7136cb1.png)
+<img src="https://user-images.githubusercontent.com/38373305/218301004-4556a1c6-b76b-44b6-aeab-1f48b15cc17d.png" alt="drawing" width="600" height="600"/>
+<img src="https://user-images.githubusercontent.com/38373305/218301024-cbf9bfbc-b3e2-4e44-89a2-106fafeda465.png" alt="drawing" width="600" height="600"/>
+<img src="https://user-images.githubusercontent.com/38373305/218301046-2fab51b0-4566-43d0-a861-9d6ee7136cb1.png" alt="drawing" width="600" height="600"/>
+
 
 # Dataset and Evaluate tools
 Dataset: <br>
