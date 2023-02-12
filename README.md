@@ -3,9 +3,7 @@ This project provides the code and results for 'LSNet: Lightweight Spatial Boost
 
 # Architecture
    ![image](https://user-images.githubusercontent.com/38373305/218299592-13bb523b-8f1d-485f-9c65-137dca4e1544.png)
-
-# Details
-<img src="https://user-images.githubusercontent.com/38373305/218299628-8b7bbdc5-39b2-4d68-9cdb-828e617c0bab.png" alt="drawing" width="400"/><img src="https://user-images.githubusercontent.com/38373305/218299686-8a7e7cae-8970-4e56-a4b1-4986b872741f.png" alt="drawing" width="400"/>
+<img src="https://user-images.githubusercontent.com/38373305/218299628-8b7bbdc5-39b2-4d68-9cdb-828e617c0bab.png" alt="drawing" width="400" height="400"/> <img src="https://user-images.githubusercontent.com/38373305/218299686-8a7e7cae-8970-4e56-a4b1-4986b872741f.png" alt="drawing" width="400" height="400"/>
 
 
 # Dataset and Evaluate tools
