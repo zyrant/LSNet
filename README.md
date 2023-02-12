@@ -23,8 +23,8 @@ RGB-D  [baidu](https://pan.baidu.com/s/1A-fwxAtnwMPuznn1PCATWg),pin: 7pi5 / [Goo
 [matlab](https://github.com/DengPingFan/CODToolbox) verison or [python](https://github.com/lartpang/PySODMetrics) version.
 
 # Saliency Maps
-RGB-T [baidu](https://pan.baidu.com/s/1i5GwM0C0OfE5D5VLXlBkVA) pin: fxsk <br>
-RGB-D [baidu](https://pan.baidu.com/s/1bAlk753MeeRG0BLMJXAzxQ) pin: 6352 <br>
+RGB-T [baidu](https://pan.baidu.com/s/1i5GwM0C0OfE5D5VLXlBkVA) pin: fxsk / [Google drive](https://drive.google.com/file/d/1ATEw8cNLHYfuCAK40VUBzcqBnMOKw-OV/view?usp=sharing)<br>
+RGB-D [baidu](https://pan.baidu.com/s/1bAlk753MeeRG0BLMJXAzxQ) pin: 6352 / [Google drive](https://drive.google.com/file/d/1WgQlcVWg_YC4_64TaIn8JSWuzZC_FfhW/view?usp=sharing)<br>
 PS: we resize the testing data to the size of 224 * 224 for quicky evaluate. <br>
 please check our previous works [RGB-T](https://github.com/zyrant/APNet) and [RGB-D](https://github.com/zyrant/CCAFNet).
 
