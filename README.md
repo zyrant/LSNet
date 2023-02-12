@@ -31,13 +31,15 @@ RGB-T [baidu](https://pan.baidu.com/s/1aGP283gNpb3oosvbq4OSDg) pin: wnoa <br> / 
 RGB-D [baidu](https://pan.baidu.com/s/1aGP283gNpb3oosvbq4OSDg) pin: wnoa <br> / [Google drive](https://drive.google.com/drive/folders/17xmRA5zhLeIIS_-1EXbhxhPoW-Xn40xl?usp=sharing)
 
 # Citation
-        @ARTICLE{10042233,
-  author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Yang, Rongwang and Yu, Lu},
-  journal={IEEE Transactions on Image Processing}, 
-  title={LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images}, 
-  year={2023},
-  pages={1-1},
-  doi={10.1109/TIP.2023.3242775}}
+        @ARTICLE{Zhou_2023_LSNet,
+                    author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Yang, Rongwang and Yu, Lu},
+                    journal={IEEE Transactions on Image Processing}, 
+                    title={LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images}, 
+                    year={2023},
+                    volume={},
+                    number={},
+                    pages={1-1},
+                    doi={10.1109/TIP.2023.3242775}}
                 
                 
 
