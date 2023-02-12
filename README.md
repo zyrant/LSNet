@@ -25,7 +25,7 @@ RGB-D  [baidu](https://pan.baidu.com/s/1A-fwxAtnwMPuznn1PCATWg),pin: 7pi5 / [Goo
 # Saliency Maps
 RGB-T [baidu](https://pan.baidu.com/s/1i5GwM0C0OfE5D5VLXlBkVA) pin: fxsk <br>
 RGB-D [baidu](https://pan.baidu.com/s/1bAlk753MeeRG0BLMJXAzxQ) pin: 6352 <br>
-PS: we resize the testing data to the size of 224 * 224 for quicky evaluate.
+PS: we resize the testing data to the size of 224 * 224 for quicky evaluate. <br>
 please check our previous works [RGB-T](https://github.com/zyrant/APNet) and [RGB-D](https://github.com/zyrant/CCAFNet).
 
 # Pretraining Models
