@@ -45,6 +45,7 @@ RGB-D [baidu](https://pan.baidu.com/s/1aGP283gNpb3oosvbq4OSDg) pin: wnoa / [Goog
                     
 # Acknowledgement
 The implement of this project is based on the code of [BBS-Net](https://github.com/zyjwuyan/BBS-Net) and [Knowledge-Distillation-Zoo](https://github.com/AberHu/Knowledge-Distillation-Zoo).
+About fps/speed test, please refer [MobileSal](https://github.com/yuhuan-wu/MobileSal/blob/master/speed_test.py).
 
 # Contact
 Please drop me an email for any problems or discussion: https://wujiezhou.github.io/ (wujiezhou@163.com) or zzzyylink@gmail.com.
