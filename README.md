@@ -21,12 +21,12 @@ If anything goes wrong with the environment, please check requirements.txt for d
 
 Note that the depth maps of the raw data above are foreground is white.
 # Training & Testing
-modify the `train_root` `train_root` `save_path` path in `config.py` according to you own data path.
+modify the `train_root` `train_root` `save_path` path in `config.py` according to your own data path.
 - Train the LSNet:
 
     `python train.py`
     
-modify the `test_path` path in `config.py` according to you own data path.
+modify the `test_path` path in `config.py` according to your own data path.
 
 - Test the LSNet:   
 
