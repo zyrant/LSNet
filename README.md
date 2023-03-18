@@ -18,6 +18,7 @@ If anything goes wrong with the environment, please check requirements.txt for d
 # Data Preparation
  - Download the RGB-T raw data from [baidu](https://pan.baidu.com/s/1fDht3BmqIYPks_iquST5hQ), pin: sf9y / [Google drive](https://drive.google.com/file/d/1vjdD13DTh9mM69mRRRdFBbpWbmj6MSKj/view?usp=share_link) <br>
  - Download the RGB-D raw data from [baidu](https://pan.baidu.com/s/1A-fwxAtnwMPuznn1PCATWg), pin: 7pi5 / [Google drive](https://drive.google.com/file/d/1WzTuHQJCKPE5OreanoU0N2e82Y1_VZyA/view?usp=share_link) <br>
+
 Note that the depth maps of the raw data above are foreground is white.
 # Training & Testing
 modify the `train_root` `train_root` `save_path` path in `config.py` according to you own data path.
