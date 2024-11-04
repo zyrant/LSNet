@@ -20,7 +20,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = opt.gpu_id
 print('USE GPU:', opt.gpu_id)
 
 # build the model
-from zy_LSNet.LSNet import LSNet
+from LSNet import LSNet
 model = LSNet()
 if (opt.load is not None):
     model.load_state_dict(torch.load(opt.load))
