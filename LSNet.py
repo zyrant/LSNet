@@ -76,7 +76,7 @@ class AFD_spatial(nn.Module):
         loss =torch.sum(loss,dim=(2,3)).mean(0)
         return loss
 
-from zy_LSNet.mobilenetv2 import mobilenet_v2
+from mobilenetv2 import mobilenet_v2
 class LSNet(nn.Module):
     def __init__(self):
         super(LSNet, self).__init__()
