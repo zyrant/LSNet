@@ -6,7 +6,7 @@ import numpy as np
 import os
 import cv2
 
-from LSNet import LENetmobilenetv2_KD
+from LSNet import LSNet
 from config import opt
 
 
